@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/sofiabusygina/Documents/3 семестр/GraphicsEngine/graphics_engine"
+relocations:     []
+...
